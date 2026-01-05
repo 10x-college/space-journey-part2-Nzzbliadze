@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/om7GNoCM)
 როგორც გახსოვთ წინა დავალებაში იუპიტერთან ახლოს ხომალდი დაგიზიანდათ,
 თქვენი გაგზავნილი SOS წერილი ნასაზე ადრე უცხოპლანეტელებმა ნახეს და თქვენი
 დახმარება გადაწყვიტეს, ასე მოხვდით ინტერპლანეტარულ აეროპორტში
@@ -53,7 +54,7 @@ Create a `<main>` tag to hold the primary content. We will have three main secti
 Section 1: Popular Flight Paths
 Create a `<section>` with the id "destinations".
 
-Add an `<h2>` title: POPULAR FLIGHT PATHS.
+Add an `<h2>` title: class="blink"
 
 The Grid: Create a container `<div class="grid-wrapper">` to hold the cards.
 
