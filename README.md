@@ -54,7 +54,7 @@ Create a `<main>` tag to hold the primary content. We will have three main secti
 Section 1: Popular Flight Paths
 Create a `<section>` with the id "destinations".
 
-Add an `<h2>` title: POPULAR FLIGHT PATHS.
+Add an `<h2>` title: class="blink"
 
 The Grid: Create a container `<div class="grid-wrapper">` to hold the cards.
 
